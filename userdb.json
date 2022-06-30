@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "username": "john",
+      "email": "johnVu@gmail.com",
+      "password": "alpha",
+      "todos": [],
+      "completedTodos": [],
+      "id": 1
+    },
+    {
+      "username": "jenny",
+      "email": "jenny@gmail.com",
+      "password": "hola",
+      "todos": [],
+      "completedTodos": [],
+      "id": 2
+    },
+    {
+      "username": "santosh",
+      "email": "ramsrisantosh2712@gmail.com",
+      "password": "badboy",
+      "todos": [],
+      "completedTodos": [],
+      "id": 3
+    },
+    {
+      "username": "alphadevil2894",
+      "email": "alphadevil@gmail.com",
+      "password": "alpha",
+      "todos": [],
+      "completedTodos": [],
+      "id": 4
+    },
+    {
+      "todos": [],
+      "completedTodos": [],
+      "username": "vamsi",
+      "email": "vamsi@yahoo.com",
+      "password": "vams",
+      "id": 5
+    },
+    {
+      "username": "vasanth",
+      "email": "vasanth@rangam.com",
+      "password": "karthika",
+      "todos": [],
+      "completedTodos": [],
+      "id": 6
+    },
+    {
+      "username": "vasanth",
+      "email": "vasanth@rangam.com",
+      "password": "karthika",
+      "todos": [],
+      "completedTodos": [],
+      "id": 7
+    },
+    {
+      "todos": [
+        "dont call jenny memsaab",
+        "Rescue malli",
+        "Ardham kakapovadam",
+        "taking up the mission of rescueing malli",
+        "Rescue Ramaraju"
+      ],
+      "completedTodos": [
+        "killing Scott with his own bullet",
+        "Jumping",
+        "Crying"
+      ],
+      "username": "bheemudu",
+      "email": "komaram@gmail.com",
+      "password": "jenny",
+      "id": 8
+    },
+    {
+      "todos": [
+        "killing dcp",
+        "getting marks from heroine father"
+      ],
+      "username": "Bunny",
+      "email": "Nood@madhu.com",
+      "password": "madhu",
+      "completedTodos": [],
+      "id": 9
+    },
+    {
+      "todos": [],
+      "completedTodos": [],
+      "username": "neha",
+      "email": "neha@gmail.com",
+      "password": "neha1010",
+      "id": 10
+    },
+    {
+      "todos": [
+        "dancing",
+        "laughing",
+        "Running"
+      ],
+      "completedTodos": [],
+      "username": "john",
+      "email": "john@gmail.com",
+      "password": "john123",
+      "id": 11
+    }
+  ],
+  "loggedInUser": [
+  ]
+}

@@ -1,0 +1,15 @@
+.caption{
+    font-family: 'Titan One', cursive !important;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.brand{
+    font-family: 'Titan One', cursive;
+    color: rgb(252, 252, 252);
+}
+
+.getStarted:hover{
+    color: black !important;
+    background-color:antiquewhite !important;
+}

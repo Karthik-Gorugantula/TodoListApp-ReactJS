@@ -1,0 +1,25 @@
+.forButtonlabel{
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 1.3rem !important;
+    color: rgb(0, 205, 185) !important;
+}
+
+.userDetail{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    color: rgb(50, 47, 47);
+}
+
+.box{
+    background-color: rgb(225, 233, 241);
+    
+}
+
+.heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4rem;
+}
+
+.into:hover{
+    color: red;
+}
